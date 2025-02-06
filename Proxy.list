@@ -58,8 +58,17 @@ DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,abcproxy.com
 DOMAIN-SUFFIX,ntdtv.com
-DOMAIN-SUFFIX,creaders.net
 DOMAIN-SUFFIX,nytimes.com
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,gmail
+DOMAIN,smtp.gmail.com
+DOMAIN,smtp.gmail.com:465
+DOMAIN,creaders.net
+DOMAIN,epochtimes.com
+DOMAIN-SUFFIX,creaders.net
+DOMAIN-SUFFIX,aboluowang.com
+DOMAIN,imap.gmail.com:993
+DOMAIN,imap.gmail.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
